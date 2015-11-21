@@ -1238,7 +1238,7 @@ public final class CSVFormat implements Serializable {
         return this.withSkipHeaderRecord(true);
     }
 
-    /**
+    /***
      * Sets whether to skip the header record.
      *
      * @param skipHeaderRecord
